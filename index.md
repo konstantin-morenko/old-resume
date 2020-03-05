@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Константин Моренко
 
-You can use the [editor on GitHub](https://github.com/konstantin-morenko/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Научная деятельность
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Список моих научных трудов в pdf](https://github.com/konstantin-morenko/list-of-scholarly-writings/raw/travis/konstantin-morenko.pdf)
 
-### Markdown
+### Программирование
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Профиль на [GitHub.com](https://github.com/konstantin-morenko)
 
-```markdown
-Syntax highlighted code block
+### Художественная литература
 
-# Header 1
-## Header 2
-### Header 3
+[БесСмертная](https://ridero.ru/books/bes_smertnaya/)
 
-- Bulleted
-- List
+### Популярная литература
 
-1. Numbered
-2. List
+[Как написать книгу](https://ridero.ru/books/kak_napisat_knigu_2/)
 
-**Bold** and _Italic_ and `Code` text
+### Интернет-проекты
 
-[Link](url) and ![Image](src)
-```
+[Электрические технологии, аккумуляторы и батареи](https://battery-info.ru)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Электронная версия "[Как написать книгу](https://howto-write-book.books.konstantin-morenko.ru/)"
 
-### Jekyll Themes
+Электронная версия "[БесСмертная](immortal.books.konstantin-morenko.ru)"
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/konstantin-morenko/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Записки об НЛП](nlp-notes.books.konstantin-morenko.ru)
 
-### Support or Contact
+### Контакты
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Связаться со мной можно по электронной почте [me@konstantin-morenko.ru](mailto:me@konstantin-morenko.ru).  Учтите, что я приверженец глубокой работы, поэтому письмо должно меня заинтересовать.
