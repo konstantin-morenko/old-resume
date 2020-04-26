@@ -22,9 +22,9 @@
 
 Электронная версия "[Как написать книгу](https://howto-write-book.books.konstantin-morenko.ru/)"
 
-Электронная версия "[БесСмертная](immortal.books.konstantin-morenko.ru)"
+Электронная версия "[БесСмертная](https://immortal.books.konstantin-morenko.ru)"
 
-[Записки об НЛП](nlp-notes.books.konstantin-morenko.ru)
+[Записки об НЛП](https://nlp-notes.books.konstantin-morenko.ru)
 
 ### Контакты
 
