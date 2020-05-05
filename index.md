@@ -4,6 +4,16 @@
 
 [Список моих научных трудов в pdf](https://github.com/konstantin-morenko/list-of-scholarly-writings/raw/travis/konstantin-morenko.pdf)
 
+[Шаблон отчета по ГОСТ 7.32-2017](https://konstantin-morenko.ru/report-732-2017/)
+
+[Шаблон для научной статьи](https://github.com/konstantin-morenko/word-article-template)
+
+### Образование
+
+[Методические указания к курсовой работе по "Стратегиям коммерциализации инноваций"](https://konstantin-morenko.ru/cw-innovations/)
+
+[Отзыв руководителя по результатам педагогической практики](https://konstantin-morenko.ru/ped-practice-review/)
+
 ### Программирование
 
 Профиль на [GitHub.com](https://github.com/konstantin-morenko)
