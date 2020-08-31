@@ -38,4 +38,4 @@
 
 ### Контакты
 
-Связаться со мной можно по электронной почте [me@konstantin-morenko.ru](mailto:me@konstantin-morenko.ru).  Учтите, что я приверженец глубокой работы.
+Связаться со мной можно по электронной почте [web@konstantin-morenko.ru](mailto:web@konstantin-morenko.ru).  Учтите, что я приверженец глубокой работы.
